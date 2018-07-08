@@ -1,19 +1,19 @@
 ---
-title: About me
-subtitle: Why you'd want to hang out with me
+title: About
+subtitle: Engineering Awesome
 comments: false
+bigimg: [{src: "/img/about_timmy.jpg", desc: "Path"}]
 ---
 
-My name is The Dude. I have the following qualities:
+G'day, mate!
 
-- I rock a great beard
-- I'm extremely loyal to my friends
-- I like bowling
+I'm Chris, I enjoy Coffee, Game of Thrones and anything that can break the speed of light.
 
-That rug really tied the room together.
+My passion is in Engineering where I have Bachelor of Engineering. I majored in Robotics and Mechatronics and graduated with Honours.
 
-### my history
+In the last few years I've published a few games, helped build open-source software and run a local film festival. Along the way, I've built flying robots and CnC Machines.
 
-To be honest, I'm having some trouble remembering right now, so why don't you
-just watch [my movie](https://en.wikipedia.org/wiki/The_Big_Lebowski) and it
-will answer **all** your questions.
+I use my spare time to read, experiment with code and look after my aquatic snail Timmy.
+
+**Email:** derme[at]outlook[dot]com
+**Twitter:** [derme302](https://twitter.com/derme302)
