@@ -6,7 +6,7 @@ title = "Derme's Coffee"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
-theme = "beautifulhugo"
+theme = "m10c"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
