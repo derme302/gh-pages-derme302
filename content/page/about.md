@@ -15,4 +15,3 @@ In the last few years I've published a few games, helped build open-source softw
 I use my spare time to read, experiment with code and look after my aquatic snail Timmy.
 
 **Email:** derme[at]outlook[dot]com
-**Twitter:** [derme302](https://twitter.com/derme302)

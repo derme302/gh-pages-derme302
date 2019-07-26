@@ -6,9 +6,9 @@ title = "Derme's Coffee"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
-# disqusShortname = "your-disqus-shortname"
-# googleAnalytics = "your-google-analytics-id"
-# enableRobotsTXT = true
+disqusShortname = "dermes-coffee"
+googleAnalytics = "UA-144591183-1"
+enableRobotsTXT = true
 
 # summarylength = 30
 
