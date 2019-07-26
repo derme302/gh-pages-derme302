@@ -1,8 +1,9 @@
 ---
 title: About
-subtitle: Engineering Awesome
 comments: false
 ---
+
+![Timmy](/img/about_timmy.jpg)
 
 G'day, mate!
 

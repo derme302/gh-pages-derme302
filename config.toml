@@ -46,6 +46,7 @@ enableRobotsTXT = true
 ## Social Accounts
 [params.social]
     github = "derme302"
+    gitlab = "derme302"
     instagram = "derme302"
     twitter = "derme302"
     stackoverflow = "3023853/derme302"
