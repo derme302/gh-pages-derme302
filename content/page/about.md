@@ -2,7 +2,6 @@
 title: About
 subtitle: Engineering Awesome
 comments: false
-bigimg: [{src: "/img/about_timmy.jpg", desc: "Path"}]
 ---
 
 G'day, mate!
