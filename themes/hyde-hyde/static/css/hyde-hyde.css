@@ -780,4 +780,13 @@ a.badge-tag {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536; }
 
+.theme-custom-0a .sidebar {
+  background-color: #202020; }
+
+.theme-custom-0a .content a {
+  color: #202020; }
+
+.theme-custom-0a .related-posts li a:hover {
+  color: #202020; }
+
 /*# sourceMappingURL=hyde-hyde.css.map */

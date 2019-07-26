@@ -3,9 +3,9 @@ title: "[GameMaker] HTML"
 description: "Add snippets of HTML code to your GameMaker HTML5 games"
 date: '2018-01-27'
 link: 'https://github.com/htr3n/hyde-hyde'
-screenshot: 'hyde-hyde.png'
+screenshot: 'gm-html.png'
 layout: 'portfolio'
-featured: 'true'
+featured: 'false'
 ---
 
 GM: HTML is an extension for GameMaker: Studio that makes it possible to add snippets of HTML code to your HTML5 games. It also allows you to connect any elements you create back to your code, so for example you can press a HTML button and make a character jump.
@@ -13,7 +13,7 @@ How it works
 
 I’ll write up more later about the specifics, but basically it uses JavaScript to update the pages HTML code.
 
-What can the project do right now?
+## What can the project do right now?
 
 The extension still has some bugs, especially when handling keyboard input due to the way that the GameMaker engine works. I’m looking at adding in new features for these areas, however they require a lot of work to write a work-around. You can find a complete list of the functions below. Or the live demo to see it in action.
 
