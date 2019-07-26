@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://derme.gitlab.io/"
+baseurl = "https://derme302.gitlab.io/"
 languageCode = "en"
 
 title = "Derme's Coffee"
@@ -48,7 +48,7 @@ theme = "hyde-hyde"
     github = "derme302"
     instagram = "derme302"
     twitter = "derme302"
-    stackoverflow = "derme"
+    stackoverflow = "3023853/derme302"
     # telegram = "derme302"
     # email = "your-email@example.com"
     # gravatar = "your-email@example.com"
