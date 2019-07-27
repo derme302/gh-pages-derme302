@@ -29,6 +29,6 @@ categories:
 
 Portal would have to be one of my favourite puzzle games of all time the others being Lemmings and Portal 2.
 
-When Velociraptor proofing my place of dwelling, something I always wanted to include was a couple of Portal turrets, so I&#8217;m really hoping that Valve plan to start selling them on the adjacent self to the Weighted Companion Cubes.
+When Velociraptor proofing my place of dwelling, something I always wanted to include was a couple of Portal turrets, so I'm really hoping that Valve plan to start selling them on the adjacent self to the Weighted Companion Cubes.
 
 <span style="font-size: x-small;">Image (Portal Turret): <a href="https://www.facebook.com/TheValveStore">Valve Store Facebook Page</a></span>
