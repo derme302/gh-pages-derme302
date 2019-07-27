@@ -1,6 +1,6 @@
 ---
 id: 37
-title: 'Level 19 &#8211; Innoquous 4'
+title: 'Level 19 - Innoquous 4'
 date: 2011-05-16T09:51:00+00:00
 author: Derme
 layout: post

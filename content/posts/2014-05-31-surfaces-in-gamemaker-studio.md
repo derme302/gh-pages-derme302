@@ -1,6 +1,6 @@
 ---
 id: 118
-title: 'Cookie &#8211; Surfaces in GameMaker: Studio'
+title: 'Cookie - Surfaces in GameMaker: Studio'
 date: 2014-05-31T02:25:41+00:00
 author: Derme
 layout: post

@@ -43,7 +43,7 @@ At the start of this week I entered the 9th GameMaker Community Game Jam, my ent
   
   <tr>
     <td style="text-align: center;">
-      Dev Shot &#8211; Defend the Doughnuts from native wildlife
+      Dev Shot - Defend the Doughnuts from native wildlife
     </td>
   </tr>
 </table>
@@ -84,6 +84,6 @@ The main reasons for this decision are:
 
 1. HTML5 Port of &#8216;The Glass is Falling': Thanks to some help and advice I received from <a href="http://monkeymaw.com/" target="_blank" rel="noopener">MonkeyMaw</a>, I only have one bug/glitch left to fix before it's ready to publish. Planned Release: Mid 2013 via <a href="http://www.kongregate.com/" target="_blank" rel="noopener">Kongregate</a>.
 
-2. HTML5 &#8211; Project Unnamed: This was my original concept for the GMC Jam, but it wasn't going to happen in the time I had, so I decided to postpone it till I had a chance to work on it properly. Planned Release: March 2013 via <a href="http://www.kongregate.com/" target="_blank" rel="noopener">Kongregate</a>.
+2. HTML5 - Project Unnamed: This was my original concept for the GMC Jam, but it wasn't going to happen in the time I had, so I decided to postpone it till I had a chance to work on it properly. Planned Release: March 2013 via <a href="http://www.kongregate.com/" target="_blank" rel="noopener">Kongregate</a>.
 
 3. Mobile HTML5 Card Game: After reading <a href="http://www.truevalhalla.com/blog/ebook/" target="_blank" rel="noopener">TrueValhalla's</a> new book &#8216;<a href="http://www.truevalhalla.com/blog/ebook/" target="_blank" rel="noopener">Making money with HTML5</a>&#8216; I want to explore making and selling a mobile HTML5 app, it will probably be a one off project, but if the results are interesting, I'll make sure I post them here.
