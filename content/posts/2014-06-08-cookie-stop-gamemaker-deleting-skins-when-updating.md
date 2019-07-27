@@ -1,0 +1,28 @@
+---
+id: 136
+title: 'Cookie &#8211; Stop GameMaker deleting skins when updating'
+date: 2014-06-08T08:30:01+00:00
+author: Derme
+layout: post
+guid: http://derme.coffee/?p=136
+permalink: /2014/06/cookie-stop-gamemaker-deleting-skins-when-updating/
+image: /wp-content/uploads/2014/06/banner_image-624x159.png
+categories:
+  - GameMaker
+tags:
+  - guide
+---
+GameMaker&#8217;s auto-updater has its issues, but deleting your customs skins shouldn&#8217;t be one of them.
+
+One of GameMaker&#8217;s hidden features is that it has two folders on your computer. The first folder stores the main program that gets overwritten when you update. The second folder is where you can keep all your skins, tutorials, extensions and DnD libraries safe from the evil auto-muncher.
+
+So the folder where the main components of the IDE are is located at  
+`<br />
+C:\Users\<Username>\AppData\Roaming\GameMaker-Studio<br />
+` 
+
+Don&#8217;t store anything here, it won&#8217;t survive. The place you should put it instead is:  
+`<br />
+C:\Users\<Username>\AppData\Local\GameMaker-Studio<br />
+`  
+Which will save you from ever having to worry about it disappearing again!
