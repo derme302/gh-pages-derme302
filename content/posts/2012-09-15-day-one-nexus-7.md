@@ -25,7 +25,7 @@ The main reason I decided to go with the Nexus 7 for app development was that it
 
 <div>
   <div style="clear: both; text-align: center;">
-    <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/wp-content/uploads/2012/09/google_nexus7.png"><img src="http://derme.coffee/wp-content/uploads/2012/09/google_nexus7-300x206.png" alt="" width="320" height="220" border="0" /></a>
+    <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/uploads/2012/09/google_nexus7.png"><img src="http://derme.coffee/uploads/2012/09/google_nexus7-300x206.png" alt="" width="320" height="220" border="0" /></a>
   </div>
   
   <div style="clear: both; text-align: center;">

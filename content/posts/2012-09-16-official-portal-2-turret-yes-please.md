@@ -19,7 +19,7 @@ categories:
 ---
 <div align="center">
   <div style="clear: both; text-align: center;">
-    <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/wp-content/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg"><img src="http://derme.coffee/wp-content/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg" alt="" border="0" /></a>
+    <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg"><img src="http://derme.coffee/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg" alt="" border="0" /></a>
   </div>
   
   <p>

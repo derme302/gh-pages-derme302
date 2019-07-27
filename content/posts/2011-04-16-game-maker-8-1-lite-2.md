@@ -14,7 +14,7 @@ blogger_permalink:
   - /2011/04/game-maker-81-lite.html
 blogger_internal:
   - /feeds/6224486094781961260/posts/default/6807317219228782835
-image: /wp-content/uploads/2014/05/GM_8.1_storefront_716x215-624x187.png
+image: /uploads/2014/05/GM_8.1_storefront_716x215-624x187.png
 categories:
   - GameMaker
 ---

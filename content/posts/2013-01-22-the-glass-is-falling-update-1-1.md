@@ -19,7 +19,7 @@ categories:
   - Games
 ---
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/wp-content/uploads/2013/01/r12-20-1-2013-menu.png"><img src="http://derme.coffee/wp-content/uploads/2013/01/r12-20-1-2013-menu-225x300.png" alt="" width="240" height="320" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/uploads/2013/01/r12-20-1-2013-menu.png"><img src="http://derme.coffee/uploads/2013/01/r12-20-1-2013-menu-225x300.png" alt="" width="240" height="320" border="0" /></a>
 </div>
 
 About this time last month I released &#8220;The Glass is Falling&#8221; via the <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=115103698" target="_blank">Steam Workshop</a> and I received some really good feedback about the game. All of this has gone into creating the update which I uploaded yesterday.
@@ -51,7 +51,7 @@ About this time last month I released &#8220;The Glass is Falling&#8221; via the
 
 The HTML5 port of the game is almost ready to be released, I just have to squash one last bug with the Physics engine. I was planning an initially release on CrySet Games, but they have since shut down and I'm now looking for other places to publish it.
 
-<img class="aligncenter" src="http://derme.coffee/wp-content/uploads/2013/01/r11_1-7-13_2-225x300.png" alt="" width="240" height="320" border="0" /> 
+<img class="aligncenter" src="http://derme.coffee/uploads/2013/01/r11_1-7-13_2-225x300.png" alt="" width="240" height="320" border="0" /> 
 
 &nbsp;
 

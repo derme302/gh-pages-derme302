@@ -6,7 +6,7 @@ author: Derme
 layout: post
 guid: http://derme.coffee/?p=233
 permalink: /2015/02/level-19-homeworld-remastered/
-image: /wp-content/uploads/2015/02/2015-02-26_00001-624x351.jpg
+image: /uploads/2015/02/2015-02-26_00001-624x351.jpg
 categories:
   - Level 19
 tags:

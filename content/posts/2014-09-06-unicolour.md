@@ -6,7 +6,7 @@ author: Derme
 layout: post
 guid: http://derme.coffee/?p=214
 permalink: /2014/09/unicolour/
-image: /wp-content/uploads/2014/09/BhJscs0CAAA_Y8_.png
+image: /uploads/2014/09/BhJscs0CAAA_Y8_.png
 categories:
   - General
 tags:

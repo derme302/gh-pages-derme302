@@ -14,13 +14,13 @@ blogger_permalink:
   - /2013/01/gmc-game-jam-googleplay-future-projects.html
 blogger_internal:
   - /feeds/6224486094781961260/posts/default/4841688188058624386
-image: /wp-content/uploads/2013/01/JnD_GMC_Jam9-624x466.png
+image: /uploads/2013/01/JnD_GMC_Jam9-624x466.png
 categories:
   - GameMaker
   - General
 ---
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/wp-content/uploads/2013/01/title.png"><img src="http://derme.coffee/wp-content/uploads/2013/01/title-300x69.png" alt="" width="320" height="74" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/uploads/2013/01/title.png"><img src="http://derme.coffee/uploads/2013/01/title-300x69.png" alt="" width="320" height="74" border="0" /></a>
 </div>
 
 <div style="clear: both; text-align: center;">
@@ -37,7 +37,7 @@ At the start of this week I entered the 9th GameMaker Community Game Jam, my ent
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2013/01/JnD_GMC_Jam9.png"><img src="http://derme.coffee/wp-content/uploads/2013/01/JnD_GMC_Jam9-300x224.png" alt="" width="320" height="239" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2013/01/JnD_GMC_Jam9.png"><img src="http://derme.coffee/uploads/2013/01/JnD_GMC_Jam9-300x224.png" alt="" width="320" height="239" border="0" /></a>
     </td>
   </tr>
   
