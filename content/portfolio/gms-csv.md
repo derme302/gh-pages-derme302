@@ -1,8 +1,8 @@
 ---
-title: "[GameMaker] HTML"
+title: "[GameMaker] CSV Manager"
 description: "Add snippets of HTML code to your GameMaker HTML5 games"
-link: https://github.com/derme302
-screenshot: html.png
+link: https://github.com/derme302/gms-html
+screenshot: gms-html.png
 date: '2018-01-19'
 layout: portfolio
 ---
