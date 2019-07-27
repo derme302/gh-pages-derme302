@@ -1,6 +1,6 @@
 ---
 id: 21
-title: 'Just 21 &#8211; Release'
+title: 'Just 21 - Release'
 date: 2014-03-01T03:32:00+00:00
 author: Derme
 layout: post

@@ -43,5 +43,5 @@ So today I finally decided to pick up [Hexels](http://hexraystudios.com/hexels/)
 </div>
 
 <div style="clear: both; text-align: left;">
-  If you need this for one of your projects you can <span style="text-decoration: line-through;">download it here</span> (EDIT 22/5/2014 &#8211; Hexels now includes rotated hexels as a preset, you can find it in the custom shape section). Happy Hexeling!
+  If you need this for one of your projects you can <span style="text-decoration: line-through;">download it here</span> (EDIT 22/5/2014 - Hexels now includes rotated hexels as a preset, you can find it in the custom shape section). Happy Hexeling!
 </div>

@@ -28,7 +28,7 @@ I've never been a big fan of Minecraft, and I probably will never be, which is a
   
   <tr>
     <td style="text-align: center;">
-      Destiny out of Stargate Universe &#8211; By Blade695
+      Destiny out of Stargate Universe - By Blade695
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ Watching that ship getting constructed was absolutely epic, it even has a gate o
   
   <tr>
     <td style="text-align: center;">
-      Star Destroyer out of Star Wars &#8211; By blade695
+      Star Destroyer out of Star Wars - By blade695
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ While I prefer the Destiny, you can't forget the good old Star Destroyer, it bri
   
   <tr>
     <td style="text-align: center;">
-      Farm &#8211; By Cyphermonkey
+      Farm - By Cyphermonkey
     </td>
   </tr>
 </table>
@@ -84,7 +84,7 @@ Even with all the spaceships being built, some people can't leave the simple lif
   
   <tr>
     <td style="text-align: center;">
-      Monster House &#8211; By Cyphermonkey
+      Monster House - By Cyphermonkey
     </td>
   </tr>
 </table>
@@ -100,7 +100,7 @@ Even though I like this house, it reminds me of that really bad movie that looke
   
   <tr>
     <td style="text-align: center;">
-      Resort &#8211; Water Thing
+      Resort - Water Thing
     </td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ When you get the chance to build anything you want, some people create strange t
   
   <tr>
     <td style="text-align: center;">
-      Castle &#8211; By Derme (Me)
+      Castle - By Derme (Me)
     </td>
   </tr>
 </table>
@@ -132,7 +132,7 @@ This is where it shines that I'm not all that creative, all the earth-shattering
   
   <tr>
     <td style="text-align: center;">
-      Nyan Cat &#8211; By Kyza98
+      Nyan Cat - By Kyza98
     </td>
   </tr>
 </table>

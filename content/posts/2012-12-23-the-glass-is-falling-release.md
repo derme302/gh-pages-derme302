@@ -1,6 +1,6 @@
 ---
 id: 31
-title: 'The Glass is Falling &#8211; Release'
+title: 'The Glass is Falling - Release'
 date: 2012-12-23T05:38:00+00:00
 author: Derme
 layout: post

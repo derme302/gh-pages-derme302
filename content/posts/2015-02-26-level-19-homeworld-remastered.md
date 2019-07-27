@@ -1,6 +1,6 @@
 ---
 id: 233
-title: 'Level 19 &#8211; Homeworld Remastered'
+title: 'Level 19 - Homeworld Remastered'
 date: 2015-02-26T12:52:46+00:00
 author: Derme
 layout: post

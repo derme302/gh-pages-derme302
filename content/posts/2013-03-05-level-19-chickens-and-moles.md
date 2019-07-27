@@ -1,6 +1,6 @@
 ---
 id: 28
-title: 'Level 19 &#8211; Chickens and Moles'
+title: 'Level 19 - Chickens and Moles'
 date: 2013-03-05T23:47:00+00:00
 author: Derme
 layout: post

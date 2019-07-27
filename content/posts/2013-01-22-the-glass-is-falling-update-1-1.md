@@ -1,6 +1,6 @@
 ---
 id: 30
-title: 'The Glass is Falling &#8211; Update 1.1'
+title: 'The Glass is Falling - Update 1.1'
 date: 2013-01-22T05:33:00+00:00
 author: Derme
 layout: post

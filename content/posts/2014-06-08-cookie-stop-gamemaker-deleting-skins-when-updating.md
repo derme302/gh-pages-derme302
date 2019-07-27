@@ -1,6 +1,6 @@
 ---
 id: 136
-title: 'Cookie &#8211; Stop GameMaker deleting skins when updating'
+title: 'Cookie - Stop GameMaker deleting skins when updating'
 date: 2014-06-08T08:30:01+00:00
 author: Derme
 layout: post
