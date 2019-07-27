@@ -14,7 +14,7 @@ blogger_permalink:
   - /2013/03/level-19-chickens-and-moles.html
 blogger_internal:
   - /feeds/6224486094781961260/posts/default/2882166810722346529
-image: /wp-content/uploads/2013/03/IMG_2180-600x400.png
+image: /uploads/2013/03/IMG_2180-600x400.png
 categories:
   - Level 19
 ---
@@ -22,7 +22,7 @@ categories:
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/wp-content/uploads/2013/03/Official_Logo.png"><img src="http://derme.coffee/wp-content/uploads/2013/03/Official_Logo-300x225.png" alt="" width="320" height="240" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/uploads/2013/03/Official_Logo.png"><img src="http://derme.coffee/uploads/2013/03/Official_Logo-300x225.png" alt="" width="320" height="240" border="0" /></a>
 </div>
 
 <p style="clear: both; text-align: left;">

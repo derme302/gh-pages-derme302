@@ -21,13 +21,13 @@ categories:
 &#8216;The Glass is Falling' is a game, well more mini-game, that I've been working on in the background for the last week. The goal of the game is simple, stop the glass from hitting the floor. It's available now on the <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=115103698&searchtext=" target="_blank">GM:S Steam Workshop</a>, so if you want to have a play before reading on go ahead!
 
 <div>
-  <a href="http://derme.coffee/wp-content/uploads/2012/12/r10_22-12-12.png"><img class="aligncenter" src="http://derme.coffee/wp-content/uploads/2012/12/r10_22-12-12-224x300.png" alt="" width="238" height="320" border="0" /></a>
+  <a href="http://derme.coffee/uploads/2012/12/r10_22-12-12.png"><img class="aligncenter" src="http://derme.coffee/uploads/2012/12/r10_22-12-12-224x300.png" alt="" width="238" height="320" border="0" /></a>
 </div>
 
 It was the first game that I designed & planned before I started development and I was extremely happy when the final product turned out like the concept art.
 
 <div id="attachment_60" style="width: 233px" class="wp-caption alignleft">
-  <a href="http://derme.coffee/wp-content/uploads/2012/12/MockUp.png"><img class="wp-image-60 size-medium" src="http://derme.coffee/wp-content/uploads/2012/12/MockUp-223x300.png" alt="MockUp" width="223" height="300" srcset="https://derme.coffee/wp-content/uploads/2012/12/MockUp-223x300.png 223w, https://derme.coffee/wp-content/uploads/2012/12/MockUp.png 477w" sizes="(max-width: 223px) 100vw, 223px" /></a>
+  <a href="http://derme.coffee/uploads/2012/12/MockUp.png"><img class="wp-image-60 size-medium" src="http://derme.coffee/uploads/2012/12/MockUp-223x300.png" alt="MockUp" width="223" height="300" srcset="https://derme.coffee/uploads/2012/12/MockUp-223x300.png 223w, https://derme.coffee/uploads/2012/12/MockUp.png 477w" sizes="(max-width: 223px) 100vw, 223px" /></a>
   
   <p class="wp-caption-text">
     Concept Art
@@ -35,7 +35,7 @@ It was the first game that I designed & planned before I started development and
 </div>
 
 <div id="attachment_59" style="width: 234px" class="wp-caption alignright">
-  <a href="http://derme.coffee/wp-content/uploads/2012/12/r8_16-12-12.png"><img class="wp-image-59 size-medium" src="http://derme.coffee/wp-content/uploads/2012/12/r8_16-12-12-224x300.png" alt="r8_16-12-12" width="224" height="300" srcset="https://derme.coffee/wp-content/uploads/2012/12/r8_16-12-12-224x300.png 224w, https://derme.coffee/wp-content/uploads/2012/12/r8_16-12-12.png 480w" sizes="(max-width: 224px) 100vw, 224px" /></a>
+  <a href="http://derme.coffee/uploads/2012/12/r8_16-12-12.png"><img class="wp-image-59 size-medium" src="http://derme.coffee/uploads/2012/12/r8_16-12-12-224x300.png" alt="r8_16-12-12" width="224" height="300" srcset="https://derme.coffee/uploads/2012/12/r8_16-12-12-224x300.png 224w, https://derme.coffee/uploads/2012/12/r8_16-12-12.png 480w" sizes="(max-width: 224px) 100vw, 224px" /></a>
   
   <p class="wp-caption-text">
     Final Build

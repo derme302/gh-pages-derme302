@@ -14,7 +14,7 @@ blogger_permalink:
   - /2013/11/rotated-hexels.html
 blogger_internal:
   - /feeds/6224486094781961260/posts/default/8421094623672710982
-image: /wp-content/uploads/2017/10/8BitSpaceShipsLarge.jpg
+image: /uploads/2017/10/8BitSpaceShipsLarge.jpg
 categories:
   - Art
 tags:
@@ -25,7 +25,7 @@ So today I finally decided to pick up [Hexels](http://hexraystudios.com/hexels/)
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2013/11/RotatedHexel.png"><img src="http://derme.coffee/wp-content/uploads/2013/11/RotatedHexel-300x102.png" alt="" width="400" height="135" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2013/11/RotatedHexel.png"><img src="http://derme.coffee/uploads/2013/11/RotatedHexel-300x102.png" alt="" width="400" height="135" border="0" /></a>
     </td>
   </tr>
   

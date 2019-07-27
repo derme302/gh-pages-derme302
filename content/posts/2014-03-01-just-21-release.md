@@ -14,17 +14,17 @@ blogger_permalink:
   - /2014/03/just-21-release.html
 blogger_internal:
   - /feeds/6224486094781961260/posts/default/1260214750851489537
-image: /wp-content/uploads/2014/03/promo_google_play.png
+image: /uploads/2014/03/promo_google_play.png
 categories:
   - GameMaker
   - Games
 ---
-[<img class="aligncenter size-medium wp-image-41" src="http://derme.coffee/wp-content/uploads/2014/03/title_beta-300x225.png" alt="" width="300" height="225" srcset="https://derme.coffee/wp-content/uploads/2014/03/title_beta-300x225.png 300w, https://derme.coffee/wp-content/uploads/2014/03/title_beta.png 320w" sizes="(max-width: 300px) 100vw, 300px" />](http://derme.coffee/wp-content/uploads/2014/03/title_beta.png)
+[<img class="aligncenter size-medium wp-image-41" src="http://derme.coffee/uploads/2014/03/title_beta-300x225.png" alt="" width="300" height="225" srcset="https://derme.coffee/uploads/2014/03/title_beta-300x225.png 300w, https://derme.coffee/uploads/2014/03/title_beta.png 320w" sizes="(max-width: 300px) 100vw, 300px" />](http://derme.coffee/uploads/2014/03/title_beta.png)
 
 <span style="text-align: start;">&#8216;Just 21' is a game I started working during the middle of last year as a mobile HTML5 game, however I hit a couple technical difficulties at the time and set the project aside. </span>I recently came back and re-worked the project for Android and iOS. At this stage I'm not planning on releasing a HTML5 version, though it certainly is a possibility for the future.
 
 <div id="attachment_42" style="width: 209px" class="wp-caption alignleft">
-  <a href="http://derme.coffee/wp-content/uploads/2014/03/r1_7-2-12.png"><img class="wp-image-42 size-medium" src="http://derme.coffee/wp-content/uploads/2014/03/r1_7-2-12-199x300.png" alt="r1_7-2-12" width="199" height="300" srcset="https://derme.coffee/wp-content/uploads/2014/03/r1_7-2-12-199x300.png 199w, https://derme.coffee/wp-content/uploads/2014/03/r1_7-2-12.png 320w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+  <a href="http://derme.coffee/uploads/2014/03/r1_7-2-12.png"><img class="wp-image-42 size-medium" src="http://derme.coffee/uploads/2014/03/r1_7-2-12-199x300.png" alt="r1_7-2-12" width="199" height="300" srcset="https://derme.coffee/uploads/2014/03/r1_7-2-12-199x300.png 199w, https://derme.coffee/uploads/2014/03/r1_7-2-12.png 320w" sizes="(max-width: 199px) 100vw, 199px" /></a>
   
   <p class="wp-caption-text">
     Initial Prototype
@@ -32,7 +32,7 @@ categories:
 </div>
 
 <div id="attachment_43" style="width: 210px" class="wp-caption alignright">
-  <a href="http://derme.coffee/wp-content/uploads/2014/03/r2_19-2-13.png"><img class="wp-image-43 size-medium" src="http://derme.coffee/wp-content/uploads/2014/03/r2_19-2-13-200x300.png" alt="r2_19-2-13" width="200" height="300" srcset="https://derme.coffee/wp-content/uploads/2014/03/r2_19-2-13-200x300.png 200w, https://derme.coffee/wp-content/uploads/2014/03/r2_19-2-13.png 320w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+  <a href="http://derme.coffee/uploads/2014/03/r2_19-2-13.png"><img class="wp-image-43 size-medium" src="http://derme.coffee/uploads/2014/03/r2_19-2-13-200x300.png" alt="r2_19-2-13" width="200" height="300" srcset="https://derme.coffee/uploads/2014/03/r2_19-2-13-200x300.png 200w, https://derme.coffee/uploads/2014/03/r2_19-2-13.png 320w" sizes="(max-width: 200px) 100vw, 200px" /></a>
   
   <p class="wp-caption-text">
     Final mobile HTML5 version
@@ -60,7 +60,7 @@ When updating the game I thought that by using the existing codebase I wrote las
 <table style="float: left; margin-right: 1em; text-align: left;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2014/03/comment.png"><img src="http://derme.coffee/wp-content/uploads/2014/03/comment.png" alt="" width="640" height="20" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2014/03/comment.png"><img src="http://derme.coffee/uploads/2014/03/comment.png" alt="" width="640" height="20" border="0" /></a>
     </td>
   </tr>
   
@@ -90,7 +90,7 @@ When updating the game I thought that by using the existing codebase I wrote las
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2014/03/r16_29-1_2013.png"><img src="http://derme.coffee/wp-content/uploads/2014/03/r16_29-1_2013.png" alt="" width="212" height="320" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2014/03/r16_29-1_2013.png"><img src="http://derme.coffee/uploads/2014/03/r16_29-1_2013.png" alt="" width="212" height="320" border="0" /></a>
     </td>
   </tr>
   
@@ -103,6 +103,6 @@ When updating the game I thought that by using the existing codebase I wrote las
 
 You can go get it now on either Android or iOS:
 
-<a style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" href="https://itunes.apple.com/au/app/just-21/id813484227"><img class="alignnone" src="http://derme.coffee/wp-content/uploads/2014/03/Download_on_the_App_Store_Badge_US-UK_135x40_0824.png" alt="" width="135" height="40" border="0" /></a>[<img class="alignnone" src="http://derme.coffee/wp-content/uploads/2014/03/en_app_rgb_wo_45.png" alt="Android app on Google Play" width="129" height="45" />](https://play.google.com/store/apps/details?id=org.frostcube.just21)
+<a style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" href="https://itunes.apple.com/au/app/just-21/id813484227"><img class="alignnone" src="http://derme.coffee/uploads/2014/03/Download_on_the_App_Store_Badge_US-UK_135x40_0824.png" alt="" width="135" height="40" border="0" /></a>[<img class="alignnone" src="http://derme.coffee/uploads/2014/03/en_app_rgb_wo_45.png" alt="Android app on Google Play" width="129" height="45" />](https://play.google.com/store/apps/details?id=org.frostcube.just21)
 
 If you have any thoughts please take a moment to let me know on [Twitter](https://twitter.com/Derme302) or leave a comment below.

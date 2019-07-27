@@ -22,7 +22,7 @@ I've never been a big fan of Minecraft, and I probably will never be, which is a
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_Destiny.png"><img src="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_Destiny-300x169.png" alt="" width="320" height="180" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2011/10/Minecraft_Destiny.png"><img src="http://derme.coffee/uploads/2011/10/Minecraft_Destiny-300x169.png" alt="" width="320" height="180" border="0" /></a>
     </td>
   </tr>
   
@@ -44,7 +44,7 @@ Watching that ship getting constructed was absolutely epic, it even has a gate o
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_StarDestroyer.png"><img src="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_StarDestroyer-300x170.png" alt="" width="320" height="182" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2011/10/Minecraft_StarDestroyer.png"><img src="http://derme.coffee/uploads/2011/10/Minecraft_StarDestroyer-300x170.png" alt="" width="320" height="182" border="0" /></a>
     </td>
   </tr>
   
@@ -62,7 +62,7 @@ While I prefer the Destiny, you can't forget the good old Star Destroyer, it bri
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2011/10/Mincraft_Farm.png"><img src="http://derme.coffee/wp-content/uploads/2011/10/Mincraft_Farm-300x168.png" alt="" width="320" height="179" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2011/10/Mincraft_Farm.png"><img src="http://derme.coffee/uploads/2011/10/Mincraft_Farm-300x168.png" alt="" width="320" height="179" border="0" /></a>
     </td>
   </tr>
   
@@ -78,7 +78,7 @@ Even with all the spaceships being built, some people can't leave the simple lif
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_MonsterHouse.png"><img src="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_MonsterHouse-300x169.png" alt="" width="320" height="180" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2011/10/Minecraft_MonsterHouse.png"><img src="http://derme.coffee/uploads/2011/10/Minecraft_MonsterHouse-300x169.png" alt="" width="320" height="180" border="0" /></a>
     </td>
   </tr>
   
@@ -94,7 +94,7 @@ Even though I like this house, it reminds me of that really bad movie that looke
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_Resort.png"><img src="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_Resort-300x168.png" alt="" width="320" height="179" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2011/10/Minecraft_Resort.png"><img src="http://derme.coffee/uploads/2011/10/Minecraft_Resort-300x168.png" alt="" width="320" height="179" border="0" /></a>
     </td>
   </tr>
   
@@ -110,7 +110,7 @@ When you get the chance to build anything you want, some people create strange t
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2011/10/Mincraft_LordCastle.png"><img src="http://derme.coffee/wp-content/uploads/2011/10/Mincraft_LordCastle-300x169.png" alt="" width="320" height="180" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2011/10/Mincraft_LordCastle.png"><img src="http://derme.coffee/uploads/2011/10/Mincraft_LordCastle-300x169.png" alt="" width="320" height="180" border="0" /></a>
     </td>
   </tr>
   
@@ -126,7 +126,7 @@ This is where it shines that I'm not all that creative, all the earth-shattering
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="text-align: center;">
-      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_NumCat.png"><img src="http://derme.coffee/wp-content/uploads/2011/10/Minecraft_NumCat-300x169.png" alt="" width="320" height="180" border="0" /></a>
+      <a style="margin-left: auto; margin-right: auto;" href="http://derme.coffee/uploads/2011/10/Minecraft_NumCat.png"><img src="http://derme.coffee/uploads/2011/10/Minecraft_NumCat-300x169.png" alt="" width="320" height="180" border="0" /></a>
     </td>
   </tr>
   

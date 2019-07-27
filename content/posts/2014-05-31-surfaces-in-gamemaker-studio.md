@@ -6,7 +6,7 @@ author: Derme
 layout: post
 guid: http://derme.coffee/?p=118
 permalink: /2014/05/surfaces-in-gamemaker-studio/
-image: /wp-content/uploads/2014/05/banner_image-624x159.png
+image: /uploads/2014/05/banner_image-624x159.png
 categories:
   - GameMaker
 tags:

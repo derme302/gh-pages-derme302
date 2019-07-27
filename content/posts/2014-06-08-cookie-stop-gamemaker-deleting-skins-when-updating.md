@@ -6,7 +6,7 @@ author: Derme
 layout: post
 guid: http://derme.coffee/?p=136
 permalink: /2014/06/cookie-stop-gamemaker-deleting-skins-when-updating/
-image: /wp-content/uploads/2014/06/banner_image-624x159.png
+image: /uploads/2014/06/banner_image-624x159.png
 categories:
   - GameMaker
 tags:
