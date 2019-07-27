@@ -49,13 +49,13 @@ About this time last month I released &#8220;The Glass is Falling&#8221; via the
 <div>
 </div>
 
-The HTML5 port of the game is almost ready to be released, I just have to squash one last bug with the Physics engine. I was planning an initially release on CrySet Games, but they have since shut down and I&#8217;m now looking for other places to publish it.
+The HTML5 port of the game is almost ready to be released, I just have to squash one last bug with the Physics engine. I was planning an initially release on CrySet Games, but they have since shut down and I'm now looking for other places to publish it.
 
 <img class="aligncenter" src="http://derme.coffee/wp-content/uploads/2013/01/r11_1-7-13_2-225x300.png" alt="" width="240" height="320" border="0" /> 
 
 &nbsp;
 
-Over the next month or so I&#8217;m going to be getting the game ready for a release on Google Play, I&#8217;m almost ready but I got a few things left to do:
+Over the next month or so I'm going to be getting the game ready for a release on Google Play, I'm almost ready but I got a few things left to do:
 
   * Banner ads for the free version of the game
   * Online Highscore integration

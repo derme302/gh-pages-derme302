@@ -12,6 +12,6 @@ categories:
 tags:
   - GIF
 ---
-With the [shut down of Twitpic](http://www.theverge.com/2014/9/4/6106735/twitpic-is-dead-because-twitter-killed-it) I decided it was time to upload my GIFs somewhere else&#8230;all one of them. Unfortunately Twitter doesn&#8217;t allow GIFs over 3MB, so I had to upload it to YouTube instead, but better than it being lost forever.
+With the [shut down of Twitpic](http://www.theverge.com/2014/9/4/6106735/twitpic-is-dead-because-twitter-killed-it) I decided it was time to upload my GIFs somewhere else&#8230;all one of them. Unfortunately Twitter doesn't allow GIFs over 3MB, so I had to upload it to YouTube instead, but better than it being lost forever.
 
 <p style="text-align: center;">

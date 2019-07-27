@@ -21,7 +21,7 @@ categories:
 ---
 [<img class="aligncenter size-medium wp-image-41" src="http://derme.coffee/wp-content/uploads/2014/03/title_beta-300x225.png" alt="" width="300" height="225" srcset="https://derme.coffee/wp-content/uploads/2014/03/title_beta-300x225.png 300w, https://derme.coffee/wp-content/uploads/2014/03/title_beta.png 320w" sizes="(max-width: 300px) 100vw, 300px" />](http://derme.coffee/wp-content/uploads/2014/03/title_beta.png)
 
-<span style="text-align: start;">&#8216;Just 21&#8217; is a game I started working during the middle of last year as a mobile HTML5 game, however I hit a couple technical difficulties at the time and set the project aside. </span>I recently came back and re-worked the project for Android and iOS. At this stage I&#8217;m not planning on releasing a HTML5 version, though it certainly is a possibility for the future.
+<span style="text-align: start;">&#8216;Just 21' is a game I started working during the middle of last year as a mobile HTML5 game, however I hit a couple technical difficulties at the time and set the project aside. </span>I recently came back and re-worked the project for Android and iOS. At this stage I'm not planning on releasing a HTML5 version, though it certainly is a possibility for the future.
 
 <div id="attachment_42" style="width: 209px" class="wp-caption alignleft">
   <a href="http://derme.coffee/wp-content/uploads/2014/03/r1_7-2-12.png"><img class="wp-image-42 size-medium" src="http://derme.coffee/wp-content/uploads/2014/03/r1_7-2-12-199x300.png" alt="r1_7-2-12" width="199" height="300" srcset="https://derme.coffee/wp-content/uploads/2014/03/r1_7-2-12-199x300.png 199w, https://derme.coffee/wp-content/uploads/2014/03/r1_7-2-12.png 320w" sizes="(max-width: 199px) 100vw, 199px" /></a>
@@ -66,7 +66,7 @@ When updating the game I thought that by using the existing codebase I wrote las
   
   <tr>
     <td style="text-align: center;">
-      &#8216;Scipt&#8217; what was I thinking?
+      &#8216;Scipt' what was I thinking?
     </td>
   </tr>
 </table>

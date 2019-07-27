@@ -1,6 +1,6 @@
 ---
 id: 145
-title: 'Mint &#8211; Preview of the new &#8216;Blue&#8217; Steam UI'
+title: "Mint - Preview of the new 'Blue' Steam UI"
 date: 2014-08-13T02:17:43+00:00
 author: Derme
 layout: post
@@ -14,7 +14,7 @@ The [Steam Database posted some mock-ups](http://steamdb.info/blog/48/) of what 
 
 [<img class="aligncenter wp-image-146 size-large" src="http://derme.coffee/wp-content/uploads/2014/08/SteamBlueUpdate-1024x554.png" alt="" width="905" height="490" srcset="https://derme.coffee/wp-content/uploads/2014/08/SteamBlueUpdate-1024x554.png 1024w, https://derme.coffee/wp-content/uploads/2014/08/SteamBlueUpdate-300x162.png 300w, https://derme.coffee/wp-content/uploads/2014/08/SteamBlueUpdate-624x337.png 624w" sizes="(max-width: 905px) 100vw, 905px" />](http://derme.coffee/wp-content/uploads/2014/08/SteamBlueUpdate.png)
 
-All over I think when it&#8217;s finished it&#8217;ll be a nice improvement over the current one which is, in my opinion, a little ugly but immeasurably better than what it used to look like.
+All over I think when it's finished it'll be a nice improvement over the current one which is, in my opinion, a little ugly but immeasurably better than what it used to look like.
 
 <div id="attachment_147" style="width: 635px" class="wp-caption aligncenter">
   <a href="http://derme.coffee/wp-content/uploads/2014/08/st_old.png"><img class="wp-image-147" src="http://derme.coffee/wp-content/uploads/2014/08/st_old.png" alt="st_old" width="625" height="429" srcset="https://derme.coffee/wp-content/uploads/2014/08/st_old.png 812w, https://derme.coffee/wp-content/uploads/2014/08/st_old-300x205.png 300w, https://derme.coffee/wp-content/uploads/2014/08/st_old-624x428.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>

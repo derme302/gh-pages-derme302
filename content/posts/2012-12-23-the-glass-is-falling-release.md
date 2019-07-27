@@ -18,7 +18,7 @@ categories:
   - GameMaker
   - Games
 ---
-&#8216;The Glass is Falling&#8217; is a game, well more mini-game, that I&#8217;ve been working on in the background for the last week. The goal of the game is simple, stop the glass from hitting the floor. It&#8217;s available now on the <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=115103698&searchtext=" target="_blank">GM:S Steam Workshop</a>, so if you want to have a play before reading on go ahead!
+&#8216;The Glass is Falling' is a game, well more mini-game, that I've been working on in the background for the last week. The goal of the game is simple, stop the glass from hitting the floor. It's available now on the <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=115103698&searchtext=" target="_blank">GM:S Steam Workshop</a>, so if you want to have a play before reading on go ahead!
 
 <div>
   <a href="http://derme.coffee/wp-content/uploads/2012/12/r10_22-12-12.png"><img class="aligncenter" src="http://derme.coffee/wp-content/uploads/2012/12/r10_22-12-12-224x300.png" alt="" width="238" height="320" border="0" /></a>
@@ -62,10 +62,10 @@ It was the first game that I designed & planned before I started development and
 
 <!--more-->
 
-Only one feature was added that wasn&#8217;t included in the plan and that is that in the final version there are two types of particles the red one (Symbolising Nitrogen) and the blue one (Symbolising Oxygen), this was to try and add a bit more depth into the game as the Oxygen particles have a greater force behind them.
+Only one feature was added that wasn't included in the plan and that is that in the final version there are two types of particles the red one (Symbolising Nitrogen) and the blue one (Symbolising Oxygen), this was to try and add a bit more depth into the game as the Oxygen particles have a greater force behind them.
 
 <p style="text-align: left;">
-  I&#8217;m happy with how the game turned out, expect for the fact that the glass always seems left-aligned, something I&#8217;ll try to fix in a later version. Speaking of later versions, I&#8217;ve already started planning the next three revisions to the game.
+  I'm happy with how the game turned out, expect for the fact that the glass always seems left-aligned, something I'll try to fix in a later version. Speaking of later versions, I've already started planning the next three revisions to the game.
 </p>
 
 <div>
@@ -132,7 +132,7 @@ Only one feature was added that wasn&#8217;t included in the plan and that is th
     </ul>
     
     <p>
-      While I&#8217;m working on these I&#8217;ll still be polishing the physics engine to try and give it a really nice feel, I also want to maybe add some power-ups (Hurricane maybe?) The 1.1 update isn&#8217;t due until late January I&#8217;m going to take a break while I work on my main project and also another side project that I&#8217;ve been meaning to build a prototype for.
+      While I'm working on these I'll still be polishing the physics engine to try and give it a really nice feel, I also want to maybe add some power-ups (Hurricane maybe?) The 1.1 update isn't due until late January I'm going to take a break while I work on my main project and also another side project that I've been meaning to build a prototype for.
     </p>
   </div>
 </div>

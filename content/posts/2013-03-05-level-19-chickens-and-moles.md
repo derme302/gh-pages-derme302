@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p style="clear: both; text-align: left;">
-  I only had one issue with the game is that occasionally the level would &#8216;time out&#8217; just before you were successful which lead to some moments of serious frustration, however after some alternate thinking I managed to get past those levels.
+  I only had one issue with the game is that occasionally the level would &#8216;time out' just before you were successful which lead to some moments of serious frustration, however after some alternate thinking I managed to get past those levels.
 </p>
 
 <p style="clear: both; text-align: left;">

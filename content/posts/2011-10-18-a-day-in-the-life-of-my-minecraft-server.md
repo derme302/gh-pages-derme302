@@ -17,7 +17,7 @@ blogger_internal:
 categories:
   - Minecraft
 ---
-I&#8217;ve never been a big fan of Minecraft, and I probably will never be, which is a little bit strange seeing as I run a Minecraft server. The game just never clicked for me, I always found it a bit, dull. Though I will admit I&#8217;m a little bit jealous when people go out and build some incredible stuff like a 8-bit computer or a 3d printer.
+I've never been a big fan of Minecraft, and I probably will never be, which is a little bit strange seeing as I run a Minecraft server. The game just never clicked for me, I always found it a bit, dull. Though I will admit I'm a little bit jealous when people go out and build some incredible stuff like a 8-bit computer or a 3d printer.
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
@@ -36,7 +36,7 @@ I&#8217;ve never been a big fan of Minecraft, and I probably will never be, whic
 <div style="clear: both; text-align: center;">
 </div>
 
-Watching that ship getting constructed was absolutely epic, it even has a gate on it! Only thing it doesn&#8217;t do is jump to FTL.
+Watching that ship getting constructed was absolutely epic, it even has a gate on it! Only thing it doesn't do is jump to FTL.
 
 <div style="clear: both; text-align: center;">
 </div>
@@ -55,7 +55,7 @@ Watching that ship getting constructed was absolutely epic, it even has a gate o
   </tr>
 </table>
 
-While I prefer the Destiny, you can&#8217;t forget the good old Star Destroyer, it brings back memories.
+While I prefer the Destiny, you can't forget the good old Star Destroyer, it brings back memories.
 
 <!--more-->
 
@@ -73,7 +73,7 @@ While I prefer the Destiny, you can&#8217;t forget the good old Star Destroyer, 
   </tr>
 </table>
 
-Even with all the spaceships being built, some people can&#8217;t leave the simple life behind.
+Even with all the spaceships being built, some people can't leave the simple life behind.
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
@@ -121,7 +121,7 @@ When you get the chance to build anything you want, some people create strange t
   </tr>
 </table>
 
-This is where it shines that I&#8217;m not all that creative, all the earth-shattering stuff going on around me and I&#8217;m building a 4 walled castle.
+This is where it shines that I'm not all that creative, all the earth-shattering stuff going on around me and I'm building a 4 walled castle.
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
@@ -145,4 +145,4 @@ So there you have it, for those of you that are dedicated Minecrafters these cre
   * Using NO mods of any sort
   * All creations were made in 48 hours or less
 
-Other than Minecraft, it&#8217;s hard to imagine isn&#8217;t it? I&#8217;ve been working on my HTML5 scrolling shooter which should hopefully be done within the next couple days.
+Other than Minecraft, it's hard to imagine isn't it? I've been working on my HTML5 scrolling shooter which should hopefully be done within the next couple days.

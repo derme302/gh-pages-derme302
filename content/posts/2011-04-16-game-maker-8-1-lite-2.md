@@ -20,7 +20,7 @@ categories:
 ---
 GameMaker 8.1 (Single word now) has received mixed reviews on the [Game Maker Community](http://gmc.yoyogames.com/), while a lot of members have given it thumbs up, many are upset that it has broken their code and is not compatible with certain extensions/DLLs. Personally though not only does it run all my games perfectly, it also runs them a lot faster than <span style="font-style: italic;">Game Maker</span> 8.0 (Two Words).
 
-[YoYo Games](http://www.yoyogames.com/) made lots of noise about the new zoom feature in the room editor, while this is great (bit buggy though), the big thing new feature for me has to be the upgraded font rendering! Now all my games have sharp as crystal text. When Mike Dailly first brought up the whole font improvement, I just didn&#8217;t get it, I couldn&#8217;t even tell the difference between the two images he put up comparing the new and the old. But now I get it and I am going to rush out and buy the standard edition tomorrow (Literally).
+[YoYo Games](http://www.yoyogames.com/) made lots of noise about the new zoom feature in the room editor, while this is great (bit buggy though), the big thing new feature for me has to be the upgraded font rendering! Now all my games have sharp as crystal text. When Mike Dailly first brought up the whole font improvement, I just didn't get it, I couldn't even tell the difference between the two images he put up comparing the new and the old. But now I get it and I am going to rush out and buy the standard edition tomorrow (Literally).
 
 <!--more-->
 
@@ -41,9 +41,9 @@ Cool, Huh? So this makes you life much easier when your trouble shooting.
 
 Indenting code with the TAB key really makes it that much quicker to indent a selection of code, a feature which is just awesome.
 
-Finally the new zoom function in the room editor, while one of the more noticeable changes they have made to GameMaker, I really didn&#8217;t feel that excited about it. However now that I have used it, I&#8217;ll never go back to GM 8.0.
+Finally the new zoom function in the room editor, while one of the more noticeable changes they have made to GameMaker, I really didn't feel that excited about it. However now that I have used it, I'll never go back to GM 8.0.
 
-So that’s it for GM Lite, overall I&#8217;d give it 4.5/5 Neurons, while it has improved GameMaker greatly , the release felt &#8220;rushed&#8221; and there was a couple of really obvious bugs. I sure though with the new Auto-Updater these errors will be fixed over the coming days.
+So that’s it for GM Lite, overall I'd give it 4.5/5 Neurons, while it has improved GameMaker greatly , the release felt &#8220;rushed&#8221; and there was a couple of really obvious bugs. I sure though with the new Auto-Updater these errors will be fixed over the coming days.
 
 Till next time folks!
 
