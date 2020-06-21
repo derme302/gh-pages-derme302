@@ -20,24 +20,27 @@ The main thing you have to remember about surfaces is they aren't guaranteed to 
 
 So to get started with surfaces you have to create one, if it doesn't already exist that is!
 
-<pre class="EnlighterJSRAW" data-enlighter-language="c">if (!surface_exists(surf))
+```c
      surf = surface_create(width, height);
-</pre>
+```
 
 Then you set the target, all drawing after this will be done to the surface.
 
-<pre class="EnlighterJSRAW" data-enlighter-language="c">surface_set_target(surf);
-// Here you just draw as normal
-// i.e draw_sprite(sprite, subimg, x, y);
-</pre>
+```c
+      // Here you just draw as normal
+      // i.e draw_sprite(sprite, subimg, x, y);
+```
 
 Then once you're done set it back to the application surface. (The standard draw area)
 
-<code class="EnlighterJSRAW" data-enlighter-language="c">surface_reset_target();‏</code>
-
+```c
+      surface_reset_target();‏
+```
 Finally you draw the surface to the screen.
 
-<code class="EnlighterJSRAW" data-enlighter-language="c">draw_surface(surf, x, y);</code>
+```c
+      draw_surface(surf, x, y);
+```
 
 You can download a example of this from [GitHub](https://github.com/derme302/gms-guide-surfaces), just navigate to the page a click &#8220;Download Zip&#8221;.
 

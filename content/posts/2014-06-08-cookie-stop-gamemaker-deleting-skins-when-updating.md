@@ -17,12 +17,11 @@ GameMaker's auto-updater has its issues, but deleting your customs skins shouldn
 One of GameMaker's hidden features is that it has two folders on your computer. The first folder stores the main program that gets overwritten when you update. The second folder is where you can keep all your skins, tutorials, extensions and DnD libraries safe from the evil auto-muncher.
 
 So the folder where the main components of the IDE are is located at  
-`<br />
-C:\Users\<Username>\AppData\Roaming\GameMaker-Studio<br />
-` 
+
+`C:\Users\<Username>\AppData\Roaming\GameMaker-Studio`
 
 Don't store anything here, it won't survive. The place you should put it instead is:  
-`<br />
-C:\Users\<Username>\AppData\Local\GameMaker-Studio<br />
-`  
+
+`C:\Users\<Username>\AppData\Local\GameMaker-Studio`
+
 Which will save you from ever having to worry about it disappearing again!

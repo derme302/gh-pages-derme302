@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2011/game-maker-8-1-lite-2/
 permalink: /2011/04/game-maker-8-1-lite-2/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

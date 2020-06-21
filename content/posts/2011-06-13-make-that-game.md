@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2011/make-that-game/
 permalink: /2011/06/make-that-game/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

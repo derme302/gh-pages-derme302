@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2013/gmc-game-jam-googleplay-future-projects/
 permalink: /2013/01/gmc-game-jam-googleplay-future-projects/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

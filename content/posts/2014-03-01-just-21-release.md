@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2014/just-21-release/
 permalink: /2014/03/just-21-release/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

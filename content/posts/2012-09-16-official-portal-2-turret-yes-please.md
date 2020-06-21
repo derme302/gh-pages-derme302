@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2012/official-portal-2-turret-yes-please/
 permalink: /2012/09/official-portal-2-turret-yes-please/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:
