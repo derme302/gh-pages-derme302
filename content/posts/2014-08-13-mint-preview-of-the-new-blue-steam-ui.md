@@ -16,12 +16,10 @@ The [Steam Database posted some mock-ups](http://steamdb.info/blog/48/) of what 
 
 All over I think when it's finished it'll be a nice improvement over the current one which is, in my opinion, a little ugly but immeasurably better than what it used to look like.
 
-<div id="attachment_147" style="width: 635px" class="wp-caption aligncenter">
-  <a href="http://derme.coffee/uploads/2014/08/st_old.png"><img class="wp-image-147" src="http://derme.coffee/uploads/2014/08/st_old.png" alt="st_old" width="625" height="429" srcset="https://derme.coffee/uploads/2014/08/st_old.png 812w, https://derme.coffee/uploads/2014/08/st_old-300x205.png 300w, https://derme.coffee/uploads/2014/08/st_old-624x428.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
-  
-  <p class="wp-caption-text">
-    Who could forget that nasty green colour?
-  </p>
-</div>
+<a href="http://derme.coffee/uploads/2014/08/st_old.png"><img class="wp-image-147" src="http://derme.coffee/uploads/2014/08/st_old.png" alt="st_old" width="625" height="429" srcset="https://derme.coffee/uploads/2014/08/st_old.png 812w, https://derme.coffee/uploads/2014/08/st_old-300x205.png 300w, https://derme.coffee/uploads/2014/08/st_old-624x428.png 624w" sizes="(max-width: 625px) 100vw, 625px" /></a>
+
+*Who could forget that nasty green colour?*
+
+
 
 Blue is in to stay, what do you think?
