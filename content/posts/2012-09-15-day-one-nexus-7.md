@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2012/day-one-nexus-7/
 permalink: /2012/09/day-one-nexus-7/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

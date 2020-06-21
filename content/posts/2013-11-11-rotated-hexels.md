@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2013/rotated-hexels/
 permalink: /2013/11/rotated-hexels/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

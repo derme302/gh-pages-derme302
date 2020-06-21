@@ -1,13 +1,13 @@
 ---
 id: 26
-title: 'GameMaker: ThreeJS Extension &#038; Demo!'
+title: 'GameMaker: ThreeJS Extension Demo!'
 date: 2013-05-15T05:20:00+00:00
 author: Derme
 layout: post
 guid: http://derme.coffee/2013/gamemaker-threejs-extension-demo/
 permalink: /2013/05/gamemaker-threejs-extension-demo/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

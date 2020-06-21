@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2011/a-day-in-the-life-of-my-minecraft-server/
 permalink: /2011/10/a-day-in-the-life-of-my-minecraft-server/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

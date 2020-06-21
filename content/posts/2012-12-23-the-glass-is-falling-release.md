@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2012/the-glass-is-falling-release/
 permalink: /2012/12/the-glass-is-falling-release/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

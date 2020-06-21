@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2013/the-glass-is-falling-update-1-1/
 permalink: /2013/01/the-glass-is-falling-update-1-1/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

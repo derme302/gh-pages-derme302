@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2011/free-website-stumbling/
 permalink: /2011/08/free-website-stumbling/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

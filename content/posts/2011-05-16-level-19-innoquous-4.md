@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2011/level-19-innoquous-4/
 permalink: /2011/05/level-19-innoquous-4/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:

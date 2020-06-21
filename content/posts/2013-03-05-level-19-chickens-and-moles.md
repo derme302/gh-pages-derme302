@@ -7,7 +7,7 @@ layout: post
 guid: http://derme.coffee/2013/level-19-chickens-and-moles/
 permalink: /2013/03/level-19-chickens-and-moles/
 blogger_blog:
-  - derme.blogspot.com
+  - derme.coffee
 blogger_author:
   - Derme
 blogger_permalink:
