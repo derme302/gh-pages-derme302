@@ -14,6 +14,8 @@ categories:
 
 ![Glass is Falling - Title Screen](http://derme.coffee/uploads/2012/12/r10_22-12-12.png)
 
+<!--more-->
+
 It was the first game that I designed & planned before I started development and I was extremely happy when the final product turned out like the concept art.
 
 ![Glass is Falling - Concept Art](http://derme.coffee/uploads/2012/12/MockUp.png)
@@ -21,8 +23,6 @@ _Concept Art_
 
 ![Glass is Falling - Final Build](http://derme.coffee/uploads/2012/12/r8_16-12-12.png)
 _Release Candidate 1_
-
-<!--more-->
 
 Only one feature was added that wasn't included in the plan and that is that in the final version there are two types of particles the red one (Symbolising Nitrogen) and the blue one (Symbolising Oxygen), this was to try and add a bit more depth into the game as the Oxygen particles have a greater force behind them.
 

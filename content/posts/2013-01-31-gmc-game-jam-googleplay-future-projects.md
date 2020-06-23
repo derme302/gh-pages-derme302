@@ -6,14 +6,6 @@ author: Derme
 layout: post
 guid: http://derme.coffee/2013/gmc-game-jam-googleplay-future-projects/
 permalink: /2013/01/gmc-game-jam-googleplay-future-projects/
-blogger_blog:
-  - derme.coffee
-blogger_author:
-  - Derme
-blogger_permalink:
-  - /2013/01/gmc-game-jam-googleplay-future-projects.html
-blogger_internal:
-  - /feeds/6224486094781961260/posts/default/4841688188058624386
 image: /uploads/2013/01/JnD_GMC_Jam9-624x466.png
 categories:
   - GameMaker
