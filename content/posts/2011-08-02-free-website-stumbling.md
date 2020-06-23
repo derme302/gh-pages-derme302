@@ -30,6 +30,8 @@ Recently I went on an adventure to buy a domain name, rent a server and build my
 
 Hosting is only half a website though; the other half is getting a domain name. I tried all the popular ones, like co.cc and the ones that x10 and 000 offer. But I managed to find some more decent and professional ones. 
 
+<!--more-->
+
 [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5639189857933096482" src="http://3.bp.blogspot.com/-Vvj__bJj83E/TkJtTE8WdiI/AAAAAAAAAGw/vDL5U9TeXF8/s320/logo_bw_small.gif" style="cursor: hand; cursor: pointer; display: block; height: 39px; margin: 0px auto 10px; text-align: center; width: 123px;" />](http://3.bp.blogspot.com/-Vvj__bJj83E/TkJtTE8WdiI/AAAAAAAAAGw/vDL5U9TeXF8/s1600/logo_bw_small.gif)  
 - uni.cc - <strike>They have a reliable little set up and</strike> I thought the domain name sounded semi-professional. They do ask that you put a small link to them on your website and that you get 10 visitors in 90 days, but you'll probably end up visiting your site that much by yourself. [EDIT&nbsp;(20/2/2012): Uni.cc have&nbsp;disappeared&nbsp;off the face of the Earth/Internet, I don't know what happened to them either, if you do know please leave a comment.]
 
