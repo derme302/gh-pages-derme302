@@ -17,18 +17,8 @@ blogger_internal:
 categories:
   - General
 ---
-<div align="center">
-  <div style="clear: both; text-align: center;">
-    <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg"><img src="http://derme.coffee/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg" alt="" border="0" /></a>
-  </div>
-  
-  <p>
-    &nbsp;
-  </p>
-</div>
+![Portal 2 Sentry Turret Robot](http://derme.coffee/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg)
 
 Portal would have to be one of my favourite puzzle games of all time the others being Lemmings and Portal 2.
 
 When Velociraptor proofing my place of dwelling, something I always wanted to include was a couple of Portal turrets, so I'm really hoping that Valve plan to start selling them on the adjacent self to the Weighted Companion Cubes.
-
-<span style="font-size: x-small;">Image (Portal Turret): <a href="https://www.facebook.com/TheValveStore">Valve Store Facebook Page</a></span>
