@@ -24,6 +24,8 @@ categories:
 
 Just 21 is a game I started working during the middle of last year as a mobile HTML5 game, however I hit a couple technical difficulties at the time and set the project aside. I recently came back and re-worked the project for Android and iOS. At this stage I'm not planning on releasing a HTML5 version, though it certainly is a possibility for the future.
 
+<!--more-->
+
 ![Initial Prototype](/uploads/2014/03/r1_7-2-12.png)
 
 *Initial Prototype*

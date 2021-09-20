@@ -18,10 +18,14 @@ One of GameMaker's hidden features is that it has two folders on your computer. 
 
 So the folder where the main components of the IDE are is located at  
 
-`C:\Users\<Username>\AppData\Roaming\GameMaker-Studio`
+```
+C:\Users\<Username>\AppData\Roaming\GameMaker-Studio
+```
 
 Don't store anything here, it won't survive. The place you should put it instead is:  
 
-`C:\Users\<Username>\AppData\Local\GameMaker-Studio`
+```
+C:\Users\<Username>\AppData\Local\GameMaker-Studio
+```
 
 Which will save you from ever having to worry about it disappearing again!
