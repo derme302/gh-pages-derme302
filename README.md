@@ -2,4 +2,4 @@
 
 ---
 
-Blog repository built using [Hugo](https://gohugo.io), accessible at [derme.coffee/](derme.coffee/)
+Blog repository built using [Hugo](https://gohugo.io), accessible at [derme.coffee/](https://derme.coffee/)
