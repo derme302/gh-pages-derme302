@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
+[![GitHub Pages](https://github.com/derme302/gh-pages-derme302/actions/workflows/main.yml/badge.svg)](https://github.com/derme302/gh-pages-derme302/actions/workflows/main.yml)
 
 ---
 
